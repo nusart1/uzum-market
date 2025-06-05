@@ -1,4 +1,8 @@
-
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .container {
   font-family: Arial, sans-serif;
 }
@@ -213,7 +217,7 @@
   border-radius: 50%;
   cursor: pointer;
   z-index: 10;
-  transition: background 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 .slider-button:hover {

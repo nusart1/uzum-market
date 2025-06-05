@@ -63,6 +63,156 @@ const productData = [
     monthly: '3 100 so‘m/oyiga',
     tags: ['Mashhur'],
     rating: '4.9 (503 sharhlar)'
+  },
+   {
+    id: 1,
+    title: 'Garnier Fructis SOS shampun 400ml',
+    price: 29990,
+    oldPrice: 52990,
+    image: Shapoon,
+    monthly: '2 124 so‘m/oyiga',
+    tags: ['Original', 'Super narx'],
+    rating: '4.9 (7648 sharhlar)'
+  },
+  {
+    id: 2,
+    title: 'Bolalar uchun aralashma NAN 3, 400gr',
+    price: 167900,
+    oldPrice: '',
+    image: Kasha,
+    monthly: '11 892 so‘m/oyiga',
+    tags: ['Katta savdo'],
+    rating: '5.0 (69 sharhlar)'
+  },
+  {
+    id: 3,
+    title: 'Kasha 3',
+    price: 54900,
+    oldPrice: 79900,
+    image: Kasha3,
+    monthly: '3 700 so‘m/oyiga',
+    tags: ['Sotuvda'],
+    rating: '4.7 (323 sharhlar)'
+  },
+  {
+    id: 4,
+    title: 'Kasha 4',
+    price: 62000,
+    oldPrice: '',
+    image: Kasha4,
+    monthly: '4 100 so‘m/oyiga',
+    tags: ['Yangi'],
+    rating: '4.8 (100 sharhlar)'
+  },
+  {
+    id: 5,
+    title: 'Nescafe Kofe 100gr',
+    price: 45900,
+    oldPrice: 52000,
+    image: Kofe,
+    monthly: '3 100 so‘m/oyiga',
+    tags: ['Mashhur'],
+    rating: '4.9 (503 sharhlar)'
+  },
+   {
+    id: 1,
+    title: 'Garnier Fructis SOS shampun 400ml',
+    price: 29990,
+    oldPrice: 52990,
+    image: Shapoon,
+    monthly: '2 124 so‘m/oyiga',
+    tags: ['Original', 'Super narx'],
+    rating: '4.9 (7648 sharhlar)'
+  },
+  {
+    id: 2,
+    title: 'Bolalar uchun aralashma NAN 3, 400gr',
+    price: 167900,
+    oldPrice: '',
+    image: Kasha,
+    monthly: '11 892 so‘m/oyiga',
+    tags: ['Katta savdo'],
+    rating: '5.0 (69 sharhlar)'
+  },
+  {
+    id: 3,
+    title: 'Kasha 3',
+    price: 54900,
+    oldPrice: 79900,
+    image: Kasha3,
+    monthly: '3 700 so‘m/oyiga',
+    tags: ['Sotuvda'],
+    rating: '4.7 (323 sharhlar)'
+  },
+  {
+    id: 4,
+    title: 'Kasha 4',
+    price: 62000,
+    oldPrice: '',
+    image: Kasha4,
+    monthly: '4 100 so‘m/oyiga',
+    tags: ['Yangi'],
+    rating: '4.8 (100 sharhlar)'
+  },
+  {
+    id: 5,
+    title: 'Nescafe Kofe 100gr',
+    price: 45900,
+    oldPrice: 52000,
+    image: Kofe,
+    monthly: '3 100 so‘m/oyiga',
+    tags: ['Mashhur'],
+    rating: '4.9 (503 sharhlar)'
+  },
+   {
+    id: 1,
+    title: 'Garnier Fructis SOS shampun 400ml',
+    price: 29990,
+    oldPrice: 52990,
+    image: Shapoon,
+    monthly: '2 124 so‘m/oyiga',
+    tags: ['Original', 'Super narx'],
+    rating: '4.9 (7648 sharhlar)'
+  },
+  {
+    id: 2,
+    title: 'Bolalar uchun aralashma NAN 3, 400gr',
+    price: 167900,
+    oldPrice: '',
+    image: Kasha,
+    monthly: '11 892 so‘m/oyiga',
+    tags: ['Katta savdo'],
+    rating: '5.0 (69 sharhlar)'
+  },
+  {
+    id: 3,
+    title: 'Kasha 3',
+    price: 54900,
+    oldPrice: 79900,
+    image: Kasha3,
+    monthly: '3 700 so‘m/oyiga',
+    tags: ['Sotuvda'],
+    rating: '4.7 (323 sharhlar)'
+  },
+  {
+    id: 4,
+    title: 'Kasha 4',
+    price: 62000,
+    oldPrice: '',
+    image: Kasha4,
+    monthly: '4 100 so‘m/oyiga',
+    tags: ['Yangi'],
+    rating: '4.8 (100 sharhlar)'
+  },
+  {
+    id: 5,
+    title: 'Nescafe Kofe 100gr',
+    price: 45900,
+    oldPrice: 52000,
+    image: Kofe,
+    monthly: '3 100 so‘m/oyiga',
+    tags: ['Mashhur'],
+    rating: '4.9 (503 sharhlar)'
   }
 ];
 
